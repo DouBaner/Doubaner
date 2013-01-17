@@ -25,6 +25,7 @@ public class DouBaner extends Activity {
     			intent.setClass(DouBaner.this, LoginActivity.class);
     			startActivity(intent);
     			DouBaner.this.finish();
+    			System.out.println("1111");
     		}
     	});
     }

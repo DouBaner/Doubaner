@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DouBaner</string>
+	<string name="app_background_color">#ecf4ec</string>
+	<string name="desc">none</string>
+	<string name="loginbtn">loginbtn</string>
+	<string name="showWeb">webView</string>
+	<string name="authcallbackURL">http://mobileapp.com/</string>
+	<string name="index">友邻广播</string>
+</resources>

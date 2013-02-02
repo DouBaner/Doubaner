@@ -46,6 +46,8 @@ public class DouBanAuthorize {
 	
 	private String authInfo = "";
 	
+	private String str="";
+	
 	public DouBanAuthorize() {
 		
 	}

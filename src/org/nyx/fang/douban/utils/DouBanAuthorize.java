@@ -46,7 +46,7 @@ public class DouBanAuthorize {
 	
 	private String authInfo = "";
 	
-	private String str="";
+	private String str="git test";
 	
 	public DouBanAuthorize() {
 		

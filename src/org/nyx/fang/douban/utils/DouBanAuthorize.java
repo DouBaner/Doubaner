@@ -46,7 +46,7 @@ public class DouBanAuthorize {
 	
 	private String authInfo = "";
 	
-	private String str="";
+	private String str="1111111111";
 	
 	public DouBanAuthorize() {
 		
